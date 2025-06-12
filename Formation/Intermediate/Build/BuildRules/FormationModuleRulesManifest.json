@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\julien.papazian\\Documents\\Unreal Projects\\Formation\\Source\\Formation\\Formation.Build.cs",
+		"C:\\Users\\julien.papazian\\Documents\\Unreal Projects\\Formation\\Source\\Formation.Target.cs",
+		"C:\\Users\\julien.papazian\\Documents\\Unreal Projects\\Formation\\Source\\FormationEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

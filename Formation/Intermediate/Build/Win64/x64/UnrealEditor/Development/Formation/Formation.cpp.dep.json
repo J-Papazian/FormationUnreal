@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\julien.papazian\\documents\\unreal projects\\formation\\source\\formation\\formation.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\julien.papazian\\documents\\unreal projects\\formation\\intermediate\\build\\win64\\x64\\formationeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\julien.papazian\\documents\\unreal projects\\formation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\formation\\definitions.formation.h",
+            "c:\\users\\julien.papazian\\documents\\unreal projects\\formation\\source\\formation\\formation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
